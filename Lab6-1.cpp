@@ -2,7 +2,7 @@
 int inputvaild(int, int);
 int getListprime(int, int);
 using namespace std;
-
+/*commit practice*/
 int main()
 {
   int begin , end , res;
